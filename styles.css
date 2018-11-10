@@ -1,0 +1,43 @@
+p, h3 {
+  color:#555555;
+  font-size: 12px;
+}
+
+}
+h4 {
+  color:#555555;
+  font-size: 10px;
+}
+
+p {
+    text-align: center;
+    font-size: 11px;
+}
+
+h1 {
+  text-align: center;
+}
+
+html {
+  font-family: Arial, Times, serif;
+  font-weight: normal;
+}
+.headline {
+  color: pink;
+  background-color:#555555;
+}
+
+.center-image {
+  display:flex;
+  justify-content: center;
+}
+
+.box {
+  background-color: green;
+  width: 100px;
+  height:100px;
+}
+
+h2{
+  color: pink;
+}
